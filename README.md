@@ -26,7 +26,6 @@ Le projet permet de traiter des données, entraîner un modèle de Machine Learn
 ---
 
 ## Structure du projet
-``` id="jlwmnh"
 MiniProjet_MLP/
 │
 ├── data/
@@ -36,3 +35,23 @@ MiniProjet_MLP/
 ├── requirements.txt
 ├── README.md
 └── main.py
+
+Installation
+Cloner le projet
+git clone https://github.com/AyoubLro/MiniProjet_MLP.git
+Accéder au dossier
+cd MiniProjet_MLP
+
+Installer les dépendances
+pip install -r requirements.txt
+
+Exécution
+python main.py
+
+Auteur
+
+Ayoub Louraoui
+
+Licence
+
+Projet académique réalisé dans le cadre d’un mini projet de Machine Learning.
